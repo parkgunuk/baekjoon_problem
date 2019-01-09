@@ -1,6 +1,4 @@
 #BFS로 문제를 풀어보자
-import sys
-sys.setrecursionlimit(1000000000)
 
 def main():
 
