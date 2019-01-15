@@ -1,4 +1,4 @@
-#정수형으로 받으면 안된다. why?
+#정수형으로만 받아야 한다. why? -> sort할때 숫자값으로 비교해야 하기 때문이다
 
 def main():
     N, M =  map(int, input().split())

@@ -7,7 +7,6 @@ def main():
     arr_len =[]
 
     answer=[]
-    min_len = 52
 
     for _ in range(N):
         k = list(input())
@@ -15,10 +14,20 @@ def main():
         arr.append(k)
         arr_len.append(len(k))
 
+    print(arr)
+    print(arr_len)
+
     for _ in range(N):
-        i = arr.pop(arr_len.index(min(arr_len)))
-        answer.append(i)
+
+        idx = arr_len.index(min(arr_len))
+        answer.append(arr[idx])
+        arr_len.pop(idx)
+        arr.pop(idx)
+
+    arr = answer[:]
 
     print(answer)
+
+
 if __name__=="__main__":
     main()
