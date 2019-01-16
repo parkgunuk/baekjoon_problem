@@ -4,24 +4,26 @@ def main():
     N = int(input())
     arr = [i+1 for i in range(N)]
     target = list(map(int, input().split()))
+    select = []
 
     if target == arr :
         print(-1)
 
     else:
-        min_value = 99;
-        for i in range(N-1,-1,-1):
-            if target[i] < target[i-1]:
-                idx1 = i-1
-                for j in range(i+1,N):
-                    min_value = min(min_value,abs(target[idx1]-target[j]))
-                idx2 = j
+        for i in range(N-1,0,-1):
+            if target[i]<target[i-1]:
+                idx = i;
                 break
-        swap(target,idx1,idx2)
-        answer = target[:idx1+1]
-        sorting_arr = target[idx1+1:]
-        sorting_arr = sorted(sorting_arr, reverse=True)
-        answer = answer+sorting_arr
+        for j in range(idx,N):
+            if(target[idx-1]>target[j]):
+                select.append(target[j])
+        idx2 = target.index(max(select))
+
+        swap(target,idx-1,idx2)
+        answer = target[:idx]
+        sorting = target[idx:]
+        sorting = sorted(sorting, reverse=True)
+        answer += sorting
 
         for i in answer:
             print(i, end=" ")

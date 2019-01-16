@@ -1,41 +1,36 @@
-#다음 순열 -> DFS 로 문제를 풀어보자
-#직접
-import time
-#TODO
-
 def main():
-
     N = int(input())
+    arr = [i+1 for i in range(N-1,-1,-1)]
+    target = list(map(int, input().split()))
+    select = []
 
-    num = input().split()
-    print(num)
-    number = ''.join(num)
-
-    visited = [False for _ in range(N+1)]
-
-    numbers = [0 for _ in range(N)]
-
-    arr =[]
-    permutation(0, numbers, visited,N,arr)
-
-    if arr[-1] == number:
+    if target == arr :
         print(-1)
-    else :
-        print(' '.join(list(arr[arr.index(number) + 1])))
 
-def permutation(idx,numbers,visited,N,arr):
+    else:
+        for i in range(N-1,0,-1):
+            if target[i]>target[i-1]:
+                idx = i;
+                break
+        for j in range(idx,N):
+            if(target[idx-1]<target[j]):
+                select.append(target[j])
+        idx2 = target.index(min(select))
 
-    if idx == N:
-        arr.append(''.join(numbers))
-        return
+        swap(target,idx-1,idx2)
+        answer = target[:idx]
+        sorting = target[idx:]
+        sorting = sorted(sorting)
+        answer += sorting
 
-    for i in range(1,N+1):
+        for i in answer:
+            print(i, end=" ")
 
-        if visited[i] == False:
-            numbers[idx] = str(i)
-            visited[i] = True
-            permutation(idx+1,numbers,visited,N,arr)
-            visited[i] = False
+def swap(target,a, b):
 
-if __name__ == "__main__":
+    tmp = target[a]
+    target[a] = target[b]
+    target[b] = tmp
+
+if __name__=="__main__":
     main()
