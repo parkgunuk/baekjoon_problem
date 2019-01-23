@@ -5,9 +5,90 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="626d6ffc-5728-473f-b28c-2801374bd6af" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/baekjoon_1194.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon_2493.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.mylyn/repositories.xml.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.core.resources/.history/ac/b044e750e20f00191107be37ffe5dd72" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.core.resources/.projects/Baekjoon_7576/.indexes/af/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.core.resources/.projects/Baekjoon_7576/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.core.resources/.root/1.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.epp.logging.aeri.ide.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jst.j2ee.webservice.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.rse.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/http-cache.lucene60/segments_1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/http-cache.lucene60/write.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/_0.cfe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/_0.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/_0.si" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/segments_1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/write.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/server-config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.core/1110334383.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.core/1180489742.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.core/1394848873.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.core/146530134.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.core/1607282252.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.core/1633992518.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.core/1703361771.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.core/1713295793.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.core/2161747041.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.core/2327184759.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.core/2680390610.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.core/2707737922.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.core/2857209468.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.core/2994552673.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.core/3173990942.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.core/3688233713.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.core/3964918290.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.core/72535324.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.core/866495595.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.core/index.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.9.1.20180912-1601.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.rse.core/.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.rse.core/initializerMarks/org.eclipse.rse.internal.core.RSELocalConnectionInitializer.mark" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.tm.terminal.view.ui/.executables/data.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.ui.intro/introstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/version.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/Baekjoon_7576/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/Baekjoon_7576/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/Baekjoon_7576/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon_1194.py" beforeDir="false" afterPath="$PROJECT_DIR$/baekjoon_1194.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baekjoon_7576.py" beforeDir="false" afterPath="$PROJECT_DIR$/baekjoon_7576.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,11 +98,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/baekjoon_1194.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="30" column="34" lean-forward="true" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+            <state relative-caret-position="703">
+              <caret line="37" column="39" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/baekjoon_11729.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/baekjoon_2667.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="359">
+              <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/baekjoon_7576.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../test/test1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -42,12 +159,14 @@
       <find>m</find>
       <find>dir</find>
       <find>arr[j]</find>
+      <find>node</find>
     </findStrings>
     <replaceStrings>
       <replace>stack</replace>
       <replace>i</replace>
       <replace>dragon</replace>
       <replace>j</replace>
+      <replace>queue</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -56,8 +175,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/baekjoon_11650.py" />
-        <option value="$PROJECT_DIR$/baekjoon_15486.py" />
         <option value="$PROJECT_DIR$/baekjoon_9095.py" />
         <option value="$PROJECT_DIR$/baekjoon_2606.py" />
         <option value="$PROJECT_DIR$/baekjoon_11052.py" />
@@ -73,7 +190,6 @@
         <option value="$PROJECT_DIR$/baekjoon_15650.py" />
         <option value="$PROJECT_DIR$/baekjoon_15651.py" />
         <option value="$PROJECT_DIR$/baekjoon_15652.py" />
-        <option value="$PROJECT_DIR$/baekjoon_2667.py" />
         <option value="$PROJECT_DIR$/baekjoon_1012.py" />
         <option value="$PROJECT_DIR$/baekjoon_1149.py" />
         <option value="$PROJECT_DIR$/baekjoon_11051.py" />
@@ -107,10 +223,13 @@
         <option value="$PROJECT_DIR$/baekjoon_2178.py" />
         <option value="$PROJECT_DIR$/baekjoon_2493.py" />
         <option value="$PROJECT_DIR$/baekjoon_1194.py" />
+        <option value="$PROJECT_DIR$/baekjoon_7576.py" />
+        <option value="$PROJECT_DIR$/../../../test/test1.py" />
+        <option value="$PROJECT_DIR$/baekjoon_2667.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -123,7 +242,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -135,6 +253,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -153,28 +272,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.baekjoon_1194">
-    <configuration name="baekjoon_1018" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Baekjoon_algo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon_1018.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.test1">
     <configuration name="baekjoon_1194" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Baekjoon_algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -259,13 +357,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Baekjoon_algo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../test" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../test/test1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test1" />
         <item itemvalue="Python.baekjoon_1194" />
         <item itemvalue="Python.baekjoon_2493" />
         <item itemvalue="Python.baekjoon_2178" />
         <item itemvalue="Python.baekjoon_5076" />
-        <item itemvalue="Python.baekjoon_1018" />
       </list>
     </recent_temporary>
   </component>
@@ -291,8 +410,8 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49786323" weight="0.35268345" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.34501642" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49786323" weight="0.35249457" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.34164858" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -338,16 +457,32 @@
           <line>39</line>
           <option name="timeStamp" value="60" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/baekjoon_1194.py</url>
-          <line>20</line>
-          <option name="timeStamp" value="63" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="queue" language="Python" />
+        <watch expression="box" language="Python" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
+      <expression>
+        <expression-string>box</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>map()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>queue</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>ans</expression-string>
         <language-id>Python</language-id>
@@ -356,21 +491,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/baekjoon_9095.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="14" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/baekjoon_7576.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="27" column="22" lean-forward="true" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/baekjoon_12738.py" />
     <entry file="file://$PROJECT_DIR$/baekjoon_1793.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -504,13 +624,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/baekjoon_11729.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
@@ -690,8 +803,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/baekjoon_1194.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="30" column="34" lean-forward="true" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+        <state relative-caret-position="703">
+          <caret line="37" column="39" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baekjoon_11729.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baekjoon_7576.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../test/test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baekjoon_2667.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
         </state>
       </provider>
     </entry>

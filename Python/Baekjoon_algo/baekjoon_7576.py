@@ -10,17 +10,17 @@ def main():
     box = [list(map(int, input().split())) for i in range(N)]
 
     days = 0
-    node = []
+    queue = []
 
     for i in range(N):
         for j in range(M):
             if box[i][j] == 1:
-                node.append((j,i))
+                queue.append((j,i))
 
     while True:
-        box, node = BFS(box, node, N, M)
+        box, queue = BFS(box, queue, N, M)
 
-        if node == []:
+        if queue == []:
             break;
 
         days +=1
@@ -31,11 +31,11 @@ def main():
                 days = -1
     print(days)
 
-def BFS(box, node, N,M):
+def BFS(box, queue, N,M):
     dir = [(1, 0), (-1, 0), (0, 1), (0, -1)]
     after_map = []
 
-    for location in node:
+    for location in queue:
         for direction in dir:
             newX = location[0]+direction[0]
             newY = location[1]+direction[1]

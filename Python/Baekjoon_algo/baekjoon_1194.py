@@ -6,8 +6,6 @@ def main():
     dir = [[-1, 0], [0, 1], [1, 0], [0, -1]]
     queue = []
     key = []
-    start_c, start_r = 0,0
-    step = -1
     flag = 0
 
     for _ in range(row):
