@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="baekjoon_10828/src"/>
+	<classpathentry kind="src" path="baekjoon_10872/src"/>
+	<classpathentry kind="src" path="baekjoon_11729/src"/>
+	<classpathentry kind="src" path="baekjoon_1935/src"/>
+	<classpathentry kind="src" path="baekjoon_2446/src"/>
+	<classpathentry kind="src" path="baekjoon_2493/src"/>
+	<classpathentry kind="src" path="baekjoon_2667/src"/>
+	<classpathentry kind="src" path="baekjoon_7576/src"/>
+	<classpathentry kind="output" path="baekjoon_10828/bin"/>
+</classpath>

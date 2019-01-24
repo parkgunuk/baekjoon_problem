@@ -5,90 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="626d6ffc-5728-473f-b28c-2801374bd6af" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.mylyn/repositories.xml.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.core.resources/.history/ac/b044e750e20f00191107be37ffe5dd72" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.core.resources/.projects/Baekjoon_7576/.indexes/af/history.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.core.resources/.projects/Baekjoon_7576/org.eclipse.jdt.core/state.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.core.resources/.root/1.tree" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.epp.logging.aeri.ide.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jst.j2ee.webservice.ui.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.rse.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/http-cache.lucene60/segments_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/http-cache.lucene60/write.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/_0.cfe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/_0.cfs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/_0.si" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/segments_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history.lucene60/write.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/server-config.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.core/1110334383.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.core/1180489742.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.core/1394848873.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.core/146530134.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.core/1607282252.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.core/1633992518.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.core/1703361771.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.core/1713295793.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.core/2161747041.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.core/2327184759.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.core/2680390610.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.core/2707737922.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.core/2857209468.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.core/2994552673.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.core/3173990942.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.core/3688233713.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.core/3964918290.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.core/72535324.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.core/866495595.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.core/index.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.9.1.20180912-1601.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.rse.core/.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.rse.core/initializerMarks/org.eclipse.rse.internal.core.RSELocalConnectionInitializer.mark" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.tm.terminal.view.ui/.executables/data.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.ui.intro/introstate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/.metadata/version.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/Baekjoon_7576/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/Baekjoon_7576/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java/Baekjoon/Baekjoon_7576/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon_1194.py" beforeDir="false" afterPath="$PROJECT_DIR$/baekjoon_1194.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon_7576.py" beforeDir="false" afterPath="$PROJECT_DIR$/baekjoon_7576.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -119,8 +36,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/baekjoon_2667.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+            <state relative-caret-position="150">
+              <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -129,7 +46,7 @@
         <entry file="file://$PROJECT_DIR$/baekjoon_7576.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="475">
-              <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+              <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -138,7 +55,7 @@
         <entry file="file://$PROJECT_DIR$/../../../test/test1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -229,7 +146,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -242,6 +159,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -253,7 +171,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -818,21 +735,21 @@
     <entry file="file://$PROJECT_DIR$/baekjoon_7576.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
-          <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../../../test/test1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/baekjoon_2667.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+        <state relative-caret-position="150">
+          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
         </state>
       </provider>
     </entry>
