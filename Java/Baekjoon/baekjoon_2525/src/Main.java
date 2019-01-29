@@ -12,7 +12,7 @@ public class Main {
 		int C = Integer.parseInt(br.readLine());
 		
 		int total = (A*60+B+C);
-		int hour = (total/60)%60;
+		int hour = (total/60)%24;
 		int min = total%60;
 		
 		System.out.println(hour+" "+min);
