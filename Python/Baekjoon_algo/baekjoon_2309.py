@@ -20,5 +20,6 @@ def brute(arr):
             arr__.pop(j)
             if sum(arr__) == 100:
                 return arr__
+
 if __name__=="__main__":
     main()
