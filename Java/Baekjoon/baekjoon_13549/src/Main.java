@@ -1,4 +1,6 @@
-import java.util.*;
+import java.util.LinkedList;
+import java.util.Queue;
+import java.util.Scanner;
 
 public class Main {
 	
@@ -46,7 +48,11 @@ public class Main {
 				}
 				if(0<=nn && nn <=max && !visited[nn][i]) {
 					visited[nn][i] = true;
-					q.add(new Node(nn,time+1));
+					if(i==1)
+						q.add(new Node(nn,time));
+					else
+						q.add(new Node(nn,time+1));
+				
 				}
 			}
 		}
