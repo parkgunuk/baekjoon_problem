@@ -16,7 +16,7 @@ public class Main {
 			this.t = t;
 		}
 	}
-	static int[][] dir = {{},{},{},{}}
+	static int[][] dir = {{},{},{},{}};
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		N =sc.nextInt();
