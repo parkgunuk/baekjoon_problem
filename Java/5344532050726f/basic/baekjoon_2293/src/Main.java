@@ -9,6 +9,14 @@ public class Main {
         for(int i = 0 ; i<N;++i){
             coin[i] = sc.nextInt();
         }
+        int[] dp = new int[K+1];
+        dp[0] = 1;
+        for(int i = 0; i<N;++i){
+            for(int j = 1;j<=K;++j) {
+                if(j-coin[i] >= 0) dp[j] += dp[j-coin[i]];
+            }
+        }
 
+        System.out.println(dp[K]);
     }
 }
