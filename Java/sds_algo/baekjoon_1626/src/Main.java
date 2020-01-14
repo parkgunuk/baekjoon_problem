@@ -1,6 +1,14 @@
 import java.util.*;
 import java.io.*;
+/*
+1) 빠진 Edge는 왜 빠졌는가??
+    -> 그 친구를 넣으면 Cycle이 생김
 
+2) 그 cycle에서 E의 cost보다 큰 Edge는 없다.
+3) E 대신에 cycle에서 하나를 빼면 cycle 제거 => SpanningTree
+
+==> 그렇다면, 선택된 Edge중에서 가장 큰 값을 빼면서 계산을 하면 어떨까?
+ */
 public class Main {
     static class Node implements Comparable<Node>{
         int u,v,w;
