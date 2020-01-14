@@ -1,4 +1,4 @@
-import java.io.IOException;
+import java.io.*;
 import java.util.*;
 
 public class Main {
@@ -65,27 +65,24 @@ public class Main {
     static Trie trie;
 
     public static void main(String[] args) throws IOException {
-        Scanner sc = new Scanner(System.in);
-//        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         trie = new Trie();
         StringBuilder sb;
 
-        int W = Integer.parseInt(sc.nextLine());
+        int W = Integer.parseInt(br.readLine());
 
-        for(int i = 0 ; i<W;++i){
-            String str = sc.nextLine();
-            trie.insert(str);
-        }
-        sc.nextLine();
+        for(int i = 0 ; i<W;++i) trie.insert(br.readLine());
 
-        int b = Integer.parseInt(sc.nextLine());
+        br.readLine();
+
+        int b = Integer.parseInt(br.readLine());
         set = new HashSet<>();
         while(b-->0){
             visited = new boolean[5][5];
             set.clear();
             boggle = new String[5][];
 
-            for(int i = 0 ; i<4;++i) boggle[i] = sc.nextLine().split("");
+            for(int i = 0 ; i<4;++i) boggle[i] = br.readLine().split("");
 
             for(int r = 0 ; r<4;++r){
                 for(int c = 0 ; c<4;++c){
@@ -114,7 +111,7 @@ public class Main {
 
             System.out.println(point+" "+list.get(0)+" "+set.size());
 
-            sc.nextLine();
+            br.readLine();
         }
     }
     private static void DFS(int sr, int sc, StringBuilder sb, int cnt){
