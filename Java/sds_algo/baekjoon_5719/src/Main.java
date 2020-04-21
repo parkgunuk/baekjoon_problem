@@ -57,6 +57,7 @@ public class Main {
             System.out.println(dist[D]);
         }
     }
+
     private static void dijkstra(){
         Arrays.fill(dist,-1);
         pq = new PriorityQueue<>();
@@ -74,6 +75,7 @@ public class Main {
             }
         }
     }
+
     private static void deleteEdge(){
         Queue<Integer> q = new LinkedList<>();
         q.add(D);

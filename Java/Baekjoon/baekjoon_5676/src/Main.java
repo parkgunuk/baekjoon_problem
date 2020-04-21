@@ -9,13 +9,12 @@ public class Main {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st;
         StringBuilder sb;
-        while(true){
+        String input;
+        while((input = br.readLine()) != null ){
             sb = new StringBuilder();
 
-            String s = br.readLine();
-            if(s.equals("")) break;
 
-            st = new StringTokenizer(s);
+            st = new StringTokenizer(input);
             int N = stoi(st.nextToken());
             int K = stoi(st.nextToken());
 
@@ -38,9 +37,13 @@ public class Main {
                 int b = stoi(st.nextToken());
                 ans = 1;
                 if(cmd.equals("C")){
-                    update(1,0,N-1,a-1,b);
-//                    System.out.println(Arrays.toString(tree));
-                    arr[a-1] = b;
+                    int item = 0;
+                    if(b>0) item = 1;
+                    else if(b<0) item = -1;
+                    update(1,0,N-1,a-1,item);
+////                    System.out.println(Arrays.toString(tree));
+//                    arr[a-1] = b;
+
                 } else if (cmd.equals("P")){
                     query(1,0,N-1,a-1,b-1);
                     if(ans>0) sb.append("+");
@@ -59,9 +62,7 @@ public class Main {
             if(a>0) tree[n] = 1;
             else if (a==0) tree[n] = 0;
             else tree[n] = -1;
-        }
-
-        else{
+        } else {
             int mid = (s+e)>>1;
             init(n*2,s,mid);
             init(n*2+1,mid+1,e);
@@ -73,9 +74,7 @@ public class Main {
     private static void update(int n, int s, int e, int idx, int val){
         if(s<=idx && idx<=e){
             if(s==e) {
-                if(val>0) tree[n] = 1;
-                else if (val==0) tree[n] = 0;
-                else tree[n] = -1;
+                tree[n] = val;
             }
             else{
                 int mid = (s+e)>>1;
@@ -87,17 +86,15 @@ public class Main {
         }
     }
 
-
     private static void query(int n, int s, int e, int i, int j){
-        if(j < s || i > e) return ;
+        if(j < s || i > e) return;
+
         if (i <= s && e <= j) {
-            ans *= tree[n];
+            ans*=tree[n];
             return;
         }
-
-        int mid = (s+e) >> 1;
+        int mid = (s + e)>>1;
         query(n*2,s,mid,i,j);
         query(n*2+1,mid+1,e,i,j);
-
     }
 }
